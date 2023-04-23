@@ -1,4 +1,3 @@
-from unittest import async_case
 from fastapi import FastAPI
 from redis_om import get_redis_connection, HashModel
 
